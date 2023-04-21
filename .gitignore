@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vs
+FigureAreaLib/obj/Debug
+FigureAreaLib/obj/Release
+FigureAreaLib/obj/publish
+*.DotSettings

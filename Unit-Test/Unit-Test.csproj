@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FigureSquareLib\FigureAreaLib.csproj" />
+    <ProjectReference Include="..\FigureAreaLib\FigureAreaLib.csproj" />
   </ItemGroup>
 
 </Project>
